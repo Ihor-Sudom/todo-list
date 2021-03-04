@@ -2,7 +2,7 @@
 ------------------
 In this application you can create / check / delete tasks and they will be saved on the server.
 
-To launch the application click on the link ***[Todo List](https://goofy-ritchie-804d07.netlify.app)***
+To launch the application click on the link ***[Todo List](https://competent-mclean-064e05.netlify.app)***
 
 In the project directory, you can run:
 
